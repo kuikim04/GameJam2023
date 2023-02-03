@@ -1,0 +1,6172 @@
+fileFormatVersion: 2
+guid: a3ecc184419774077ae981082bd6f2d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk Idle_0
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4530
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde744cc746645d1b3ca2264bff03bb
+      internalID: 668874493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_1
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4530
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed5b868e794423ca492087e925e46f
+      internalID: -1416425091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 4542
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf413d23814949b39ade234be727ef5
+      internalID: -772327139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 4537
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ea7d13f5774fd8a30d9a752cfb080
+      internalID: 1876802210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 4169
+        width: 320
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b651d3fbd44eca9e562160348c20a
+      internalID: -449958663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 4181
+        width: 385
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ddbc0f4ec04143b08da17bae832b8
+      internalID: 1798304912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_6
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4519
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab5af0b9f6c4393902b27d4b24bc68
+      internalID: -296316322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4192
+        width: 320
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd703be94d5143b9860d16adf3a8274
+      internalID: 935479527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 4499
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df176c9eb58449785d97eae23a13fe
+      internalID: 928388580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 4164
+        width: 324
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef0275bddfc42de885d7f7a69e7441
+      internalID: 214226574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_10
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 4183
+        width: 314
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4808ab6f76e479aac5440ba66a12d7
+      internalID: 983176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4173
+        width: 329
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cded6264a8d4a85b193dea6556bf98
+      internalID: 95994015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 4183
+        width: 326
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef075e25559fd4db8ae901837a5b5cf1
+      internalID: -573700844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 4183
+        width: 331
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae18ac9ae11154c869f11992fdd17b73
+      internalID: -1953847475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 4175
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc6e189b75149f8b0c00b63b9a63cb
+      internalID: -1171737486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 4492
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562fc25f806f4770a16e3d94b20d012
+      internalID: 1455407532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 4179
+        width: 309
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc0e00c5f4e4660ada5a5ccb976204
+      internalID: 148525508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4477
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561afed835d24420bafc305924411318
+      internalID: 236307631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4380
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729257f0561ba41b3b043ee9eeec8f28
+      internalID: -80378145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4357
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd116d16a26247e891749da4b22c3d1
+      internalID: 1871424905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4360
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb586719597045798a4bcac853961f7
+      internalID: -951635613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_21
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 4351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc0681c22ad497ba6e6cfb73bff13c
+      internalID: -975406392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4337
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4abdac37c44462b52aeb4e1e9af7e
+      internalID: -1072117028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4333
+        width: 45
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f397b6bcd90b4d4b908aa1e6c82a26a
+      internalID: 858381669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 4326
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9008dedc02fb40458ea9fc4f98332ec
+      internalID: 2141515393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_25
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 4301
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4dbb6c709f54de0b63cd6f90e42f85
+      internalID: 1742253905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 4308
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09417671c44140e5a39cca36dd5572f
+      internalID: 2070288442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 4279
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6105575c9f543bb9217ce0326b2908
+      internalID: -1194347621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 4290
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03af06bed5f74e038a21865b64bcc05
+      internalID: 582349187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 4281
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931feec986c474a91a916d621b4b2b22
+      internalID: -261003687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_30
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 4166
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42595f146e3f41eb9ca4ef9086bac6e
+      internalID: 1728319601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_31
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 4142
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c5fb5dda6a54bd492aa302a552220e
+      internalID: -768763293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_32
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 4146
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780b1d4efef18451dafda3f8c2d99882
+      internalID: 560657241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 4155
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d0cbf7bb454770bb5ff0b38c0ef76
+      internalID: 1091334510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 4146
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008d9f501dcf24a19a7a75f05d31118d
+      internalID: -1560217103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4119
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced29de8c63241aca744738fee55356
+      internalID: -345650591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 3757
+        width: 326
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c2123fc92341faadbb989e0aa1786
+      internalID: 182502631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 4108
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e12be72d6843f1b903f817e7b2c7d
+      internalID: -645612370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4086
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883786c61c0b415c84be8872c4216ac
+      internalID: -76931379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4108
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade538041f5c4ffb9e525202fe4a978
+      internalID: 1129826113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_40
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 4095
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b033594fee08141989a5648b15049a8f
+      internalID: 1671568160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 4101
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb8ab5db8e4448c9edabf6616c14c8
+      internalID: 1830599697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_42
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3784
+        width: 383
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60651949adb642c2a0afa88238258ad
+      internalID: 478508091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3768
+        width: 317
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670ec5848b5d4ceb80188fe0591010e
+      internalID: 1480772320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_44
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 4078
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975debe9a55e43eebb670e6cd6c40f4
+      internalID: 208330692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_45
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 3770
+        width: 319
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6506f6bba064f9faccc3f6b12403a0
+      internalID: 617644375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_46
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 3752
+        width: 314
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6f6385a7674b5797e7fb85720a0dd
+      internalID: 1538404971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3913
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b212dc4cd8d4678a96c1e2a1853600
+      internalID: -1946523975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3759
+        width: 341
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a4b57d880c41c3a3ea22c9b645b56
+      internalID: -994366529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_49
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 3768
+        width: 377
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd7cb1ad35f4deba6c42cedc3af820
+      internalID: 1486980075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_50
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3752
+        width: 330
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe674b3b2ac49fc8e94cc6dc4b2c55
+      internalID: -1676695164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_51
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3759
+        width: 327
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c0488dde924fbc946f38bd10933ca
+      internalID: 1700713651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_52
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 3752
+        width: 314
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be8d95f7d95418aaf709d621656849
+      internalID: -2141930500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_53
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 3744
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54387012219dd420a98be96fab3d581e
+      internalID: -1431904205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_54
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 3747
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f137515b2545afb9b19f41c12304a
+      internalID: 659506861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_55
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 3717
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46520bd5efb1c42509c638e9d245848d
+      internalID: 1485779431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_56
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 3699
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019bd4d3b9984a5ab90e6e857ebeb84
+      internalID: -2082737973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_57
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 3670
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771c79a1eb744489872287aa38a08e7
+      internalID: 1538900218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_58
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 3690
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02357126fc8994ea2967ec5aa70529f6
+      internalID: 149054471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_59
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3681
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3377e202d34abb80aaabe07083d03
+      internalID: 944094755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_60
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 3686
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18054983602d74bb497d5c46efa8e6e0
+      internalID: -865866079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_61
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 3670
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cfc0c984657489287cf004b44d4ff2
+      internalID: -1735238596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_62
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 3594
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b03a4ef9206425eb11a3d38318f821
+      internalID: -154928941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_63
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 3605
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7ac2bb7eb24a1397ac9ca597ca1b4
+      internalID: -625304389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3262
+        width: 396
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e9c7d75f1c4afda0e78892b19f258
+      internalID: 1204324671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3271
+        width: 395
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd2a622f66442bb9b10415491823ac
+      internalID: 364482006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_66
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 3564
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae794a0e242b418aadc38b846b27f44
+      internalID: -1395346524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_67
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 3576
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f3f216d1f94041ba2cf7ee99e780a
+      internalID: -1294832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_68
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 3565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbda633a7304805823105101333ba0
+      internalID: -858765249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_69
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 3567
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db59fc00ce849cd89dfdc0fcbc5e9b
+      internalID: 1282506986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_70
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 3555
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a4057548c2403992ff70ecd4887f8
+      internalID: -952734555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_71
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 3511
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2060bd113e454f7ea96ea55898e7021
+      internalID: -1078376154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_72
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 3506
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0c2f8fa7f0455cb47f534035aa89b
+      internalID: 259153326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_73
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 3499
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d35fede11248d7bd3396d3f3ebeb5
+      internalID: -1685422447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_74
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 3506
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe064f80c44c430e85c383b260eab9a
+      internalID: -1360548505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_75
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 3495
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44adbee9c45a743599dcc78f535a3fb6
+      internalID: 1793303800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_76
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 3495
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9925cbb09f0489584f85866b4976b3
+      internalID: -1659485462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_77
+      rect:
+        serializedVersion: 2
+        x: 4595
+        y: 3481
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183011ebbd92443db6aacae7670aa13
+      internalID: -147063349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3100
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c52b4ff1b44e6d87276ecdebb6c63
+      internalID: -2033083189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_79
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2782
+        width: 388
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a633ce8167b546fdbb27f1dd2360734
+      internalID: -1756177251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_80
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2786
+        width: 390
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ac5fc63b154b6ab7499e11dd5147b
+      internalID: -1723934687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_81
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2798
+        width: 312
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259a86440db34627a85c1d7755eb8d2
+      internalID: -2118136133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_82
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2798
+        width: 467
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9401aa5ca71d429f9d02d4c1f53e137
+      internalID: 1507540057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_83
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2798
+        width: 387
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30920c7ea3a3d498b9124923ed5bd47d
+      internalID: 2007304356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3068
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3327c9dfcd6435eb0538a148c6d6a9
+      internalID: -28609972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_85
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2777
+        width: 337
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa580e6a2d043758be8cec058c1738
+      internalID: 1890330813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_86
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2777
+        width: 374
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4e3c18524143978186ff95262dff6
+      internalID: 2086655819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_87
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2789
+        width: 353
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ae1c600e6e4220be10ca758b60cdc
+      internalID: -313595334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_88
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3055
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48167cd790e4c36b915106c24b5a92
+      internalID: 1915248854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_89
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3043
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d5c7e536db426b9ffdafbd080ec6a
+      internalID: 281157518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_90
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 3048
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a96fb1da9f1f403a93f21478bac343a
+      internalID: 1071449712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3020
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d1ef9c81534401898b63f3f6673c1
+      internalID: 467084291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_92
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3030
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297d1450fb4145d1a7a9f65c66c4dc0
+      internalID: -1014215878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3019
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d1bc728e45408289552c208218dea
+      internalID: 524211541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2967
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991c58e71a8a4bed9de1796c4df5589
+      internalID: 75914372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_95
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2990
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a7f24fa7ee452fa7d4371fc37d65e
+      internalID: 421615049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_96
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2991
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1ad768173843ffa99cdd46cac1953
+      internalID: -1434409473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_97
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2992
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea14499b5acd4f529804227babb9583
+      internalID: 1734665237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_98
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2963
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c79e03e1d3645f188605d5df221c86
+      internalID: -489568833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2954
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea287404497144ea0b1f4e9b999e1f0f
+      internalID: -2090365829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_100
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2949
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901e023b94634d4296cb97abd713683
+      internalID: 439061940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_101
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2931
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e5e2e47d6b45f68ec906f509f17b8
+      internalID: 707368778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2351
+        width: 353
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57acfd376f3a4d3684bdb675cdf05cb
+      internalID: -1107554365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_103
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2351
+        width: 425
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fac8591c2b84e7e8bb56edff88c62e
+      internalID: -137600467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_104
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2346
+        width: 385
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e982e318f8476883e816a68d1a888
+      internalID: -94588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_105
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2346
+        width: 381
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5102888d8864ac9bfc23dfa5d74206
+      internalID: 1867390522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_106
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2351
+        width: 343
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20241d5a1c564c1d9545c3ab6fcace8
+      internalID: 1575764586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_107
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2630
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115570505fcf495586037424a4303a4
+      internalID: 678931789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_108
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2360
+        width: 383
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe21178a102e4f6f83f434d71cccc7a
+      internalID: -262241805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_109
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2351
+        width: 332
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273daee8b04aa4f35aa7eb7df2cac135
+      internalID: -1450966041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_110
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2346
+        width: 408
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc16617f8dd341409693b4e4c9ab4f8
+      internalID: -1876603569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_111
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2342
+        width: 458
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08e6246a548428ba7fd607e5c6d7d0
+      internalID: -2004198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_112
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 2585
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756fcf82edd4479f87ef061694fb2ea
+      internalID: -1305207091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_113
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2348
+        width: 328
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d759f82180784092b54722ef1257a01
+      internalID: -502476635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_114
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 2612
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff5c5fa43934c62add92476f1ac084
+      internalID: 1400449119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_115
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2612
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3951ac495f427dbf67e027f829943
+      internalID: -1867265504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_116
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 2610
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad9b404ceee4494a9f2f49df2416db
+      internalID: 1118498128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_117
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2606
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab8aeb958774cc99d0db1842bbdfb7
+      internalID: -873619052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_118
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2590
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d5bf8fa5b748b69ffe356d3252cb6
+      internalID: 891823319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_119
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2605
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380dee57700ba49f49fa747843f9b2e0
+      internalID: 121638032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_120
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2583
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607ec14cb605475a8c345d3830dab60
+      internalID: -1730503939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_121
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2592
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ecc850e13f34eb48ccd95cf8c75987
+      internalID: 1536364821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_122
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 2592
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f79114acae4739ab8cdef98d8d125
+      internalID: 400131967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_123
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2574
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df8d06832eb48828a325ec4967f55c
+      internalID: -215164922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_124
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2576
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9232e255d1643bbb17377ff0e476b5
+      internalID: 326624790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_125
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 2581
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0568ec73584384a867139794c9073
+      internalID: 727697331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_126
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2574
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa29cf61de742ad8c05136e6b23ffa
+      internalID: 75723389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_127
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2565
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe302e3b91f54912ba1514a5f8198e8
+      internalID: 859468797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_128
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 2567
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f8d65ea9d34bcdaf3c4f10b0a4622
+      internalID: 1835185319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_129
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2563
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26790180c5ad4443a5bce3f16074938
+      internalID: -1336352284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_130
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 2556
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238c0760a3a9402db3005021c0ba22f
+      internalID: 843754279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_131
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 2560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dda11cf034114496830bea099eaa068
+      internalID: -2137700387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_132
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 2554
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11518e3ecd6b47359b539935cb47664
+      internalID: 1610181613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_133
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2549
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c9b6bf150ae43fe81dde05ae20b5a7
+      internalID: -1582516619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_134
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 2540
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b355f551f140fe9318f0c7de386a3
+      internalID: 141799019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_135
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2529
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b79eca3cd543e6bc76a846730e854
+      internalID: 1512223650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_136
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 2538
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713bb1fe8f11d4aa68ce0a6102984b90
+      internalID: -588596259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_137
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 2534
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c0feb60c24b4e6bac301667b60b2f5
+      internalID: 467573640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_138
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 2545
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9b0f12719b43a992b190625623e1d
+      internalID: -1076870033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_139
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2536
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7196a0a959b466489f74c72cce3191
+      internalID: 1660454444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_140
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 2537
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b466bf739e5b4d399a3f0bb2ce71afb
+      internalID: 1789379560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_141
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2547
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387fab4e196349a1a668c53698e776f
+      internalID: -326909963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_142
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 2538
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f4921ff0254535a8f254c6effb067
+      internalID: 1512206146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_143
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2533
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307b3849cfc041ffa44f8bd7e10d4ca
+      internalID: 764479405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_144
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2529
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8a074b6a31419d9fe8dc13a8626ae
+      internalID: -1469314381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_145
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 2545
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448e1a596f1c4745be7d6b60c7cd7b4
+      internalID: 1794853364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_146
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac12115b84d04fcf960d6a63ece3449
+      internalID: -1885336056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_147
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2536
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04dc073c7ad4430ca3125ba03627e19
+      internalID: 501378598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_148
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2522
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830e7cd51a8c4716b5b3af195ca49e4
+      internalID: -2074033835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_149
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2525
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e16feaacd6488087ee5fb9e8d9653
+      internalID: -1081782483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_150
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 2527
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b54fbd60c04152bff5ed0ba1ad7df
+      internalID: 117883857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_151
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2516
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c54f92ac564fab9ca1950e564cf98
+      internalID: -656333140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_152
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 2518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41d0b5c93d94dae87880a12119e837
+      internalID: 1666037717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_153
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2529
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f936b4a5a00f4396b9af9bfef6add59
+      internalID: -127457614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_154
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2522
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8691e88eb640759a5c02603a00a47
+      internalID: 1295439574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_155
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2516
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27786acca0b246f98af96e3559b9a64
+      internalID: -1833993469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_156
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2522
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce2cc605eee4a759415dec322412a7
+      internalID: -524891175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_157
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2513
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ee221f980d44d7eb25ec16d54fea09
+      internalID: -1649597237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_158
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2514
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06774a208f264f08af7ac293a198fe2
+      internalID: 769459616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_159
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 2511
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fae63edb6c746cea0c1a7685d82261
+      internalID: -781169402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_160
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2498
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aceb4c6a39c436d96d6f3d6be43fa0
+      internalID: 845473798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_161
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2511
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10dae084fe564221ac937f3123d22a6
+      internalID: -453586537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_162
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 2502
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b579669007db40498de2dabd3827448
+      internalID: 1804895065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_163
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 2511
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81ef03cd4164ff6b5130f89198bd5c
+      internalID: -896593424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_164
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2498
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4116956bb44b15bc9674f26fbce13
+      internalID: -237173808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_165
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 2507
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25722484e10b6451cbfad5ef4633f3a2
+      internalID: -1798042276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_166
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2491
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9349087fb01d4abfb0cc7653a064c29
+      internalID: 1385798961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_167
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2500
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31541daf64644867853a4bda6b1b79a
+      internalID: 80386177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_168
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2487
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e6ec29e35e49de936efd664b525f2
+      internalID: 1633405743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_169
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2493
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbf8948736c4133bd754bd35f93b43
+      internalID: -573233092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_170
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2487
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc682c38f912425eb4dbe5a6270a9f2
+      internalID: 1611213440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_171
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2480
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b406f564c1c49d688fb81adf16d1c0
+      internalID: -2111222055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_172
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2477
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004f9fdb63b141b5a8763e2ee85aeff
+      internalID: -254195400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_173
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1883
+        width: 336
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b053c9f69f9a4926a1a041910ca9cdb
+      internalID: -107139351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_174
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96944844e016540f79877a2c88569b3e
+      internalID: -1012136736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_175
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 2171
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f4e8df70b948dfb13e2d41145a3d8
+      internalID: -2021250470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_176
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df4c31ead5f40b6abfad1664bb64a8
+      internalID: 1161195681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_177
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3cf31c733f4b669d4c39bf6b7f8a2
+      internalID: -1081961857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_178
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 2181
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5918d02307f2e4f65bfab901e7d024b9
+      internalID: 824061318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_179
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bb55bb38124d2a9cb5ef9874cc9ab
+      internalID: -1972180316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_180
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2165
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b460b00b233a47af83c8d30a0355680
+      internalID: 591139724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_181
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2165
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e11ce03d214b58a88c83e381b30e9
+      internalID: 1149549898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_182
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2165
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f35b08b62f44fd195cd4f91968d814
+      internalID: 247288628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_183
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 2125
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64058af4e90c64bc0a919c8fb822bd44
+      internalID: 311616571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_184
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2165
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7b97f50f314b0d8ebe177c1b1c933
+      internalID: 1460603614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_185
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 2167
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773db1fa90c104ddda7d870b9bd0cef0
+      internalID: 124251634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_186
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2125
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56209bebe12c42a7a53aecf1ca8bccc
+      internalID: -683223064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_187
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2136
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664260801c2de44eea1c777d9c2a8f06
+      internalID: 2015783392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_188
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2136
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700624acf3ef4f1fba2000670b7d64b
+      internalID: -1159364521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_189
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2134
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3241ee59f1485e99891faeef7461b
+      internalID: -362926894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_190
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2125
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93defa2c6740b40c687c225139839932
+      internalID: -1155751378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_191
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 2080
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967ae58e940d4922a566958c2ce46c3
+      internalID: -1963674021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_192
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2114
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f00efa4fa84e109e20a3459771ab1
+      internalID: -913925003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_193
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e2d8d56187411cab0e2c9e764e68e
+      internalID: -2021231710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_194
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2113
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86bfacd987324adf94b0624b769adc6
+      internalID: -453830712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_195
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2111
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b4126a1d624df1a5cd4590aa45017
+      internalID: -1153833625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_196
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 2115
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978a841f8beb4c9bac11d5c2b3bc2b6
+      internalID: -408765264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_197
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 2124
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4dc386c46f549b09bbd01a023a664e
+      internalID: -1518261145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_198
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2089
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55558d71dee56477cb2c09cd296a55f8
+      internalID: 996061026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_199
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2097
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110dddcefab134e7f93d3fd988344ac6
+      internalID: 1901168345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_200
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2105
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34afcaf4c21c941b6b245eac3266c603
+      internalID: 1537346950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_201
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2105
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39692f6e790864eae925a5f9ed1c4eac
+      internalID: -1867719752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_202
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2087
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7830e48ece14159810fcdc15cd7100
+      internalID: 777995840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_203
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 2097
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1793d933e979473d95123b083f49bfe
+      internalID: -106385922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_204
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2087
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487572e3d12e840c8a7cd1dbc6f8914d
+      internalID: 1008826997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_205
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 2095
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc947162e8b994482b6d16a0c04edf01
+      internalID: -462485964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_206
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 2046
+        width: 150
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c70c5670df44328f934bc929ab335
+      internalID: -1902814505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_207
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2046
+        width: 157
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65839da0dd94c6195a54a067dbcc8f
+      internalID: 1129966612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_208
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2082
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a6d79aff864983af095272def1813
+      internalID: 1099137506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_209
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 2098
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b820cb20e1d94a3bbac0c052248421e
+      internalID: 2023228621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_210
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2060
+        width: 142
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ed8fd924e242fe98fc50d309f4637
+      internalID: -982087356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_211
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2087
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6e8c1a6b754dc89772cc6072a224c
+      internalID: 1678783049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_212
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2082
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79d46692b7f42b3a1867bed715ea58
+      internalID: 750641849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_213
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2098
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e18c1972f57d492bba67265696a5880
+      internalID: -1045713887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_214
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 2087
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8aecc78cf684f93a4aaf9551abce07
+      internalID: -761903783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_215
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 2087
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4dea51ad8a04fc8b80a9e074ddcfad
+      internalID: 764471006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_216
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 2096
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5add75fdc87944fca28dcaa3714557d
+      internalID: -191723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_217
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2042
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0338e919a154c44b48aa94a859adb1
+      internalID: 1054516124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_218
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 2069
+        width: 131
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10feede79c63435c80fb39a8463d0a0
+      internalID: 948269468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_219
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2087
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3de10d26a9c460f9e45755a17f510f
+      internalID: -1334641490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_220
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2087
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a509258167b324529b245016b932e5c1
+      internalID: -838906030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_221
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 2064
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc17f1d626d49e8ab81046a9f32cf7
+      internalID: 1211559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_222
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2078
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913b776766424154b9c9922f322e0cc
+      internalID: 1690851465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_223
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2055
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c532256f76645da8c2edf9fbe6461c
+      internalID: 268071185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_224
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2057
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82b2eaeb51f4f66b0908d7d53115d5
+      internalID: -936765910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_225
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2058
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c16fdaf4a9493e8e5d683d9e5539e
+      internalID: -207610813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_226
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2055
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6aff83047b45a8925c32c90a6ba8d
+      internalID: 1320157473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_227
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2062
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d9ac9aacc5a4e99814525b3463a3ea
+      internalID: -2088787832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_228
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2061
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080eee657832b492d8d182cac07fa6f1
+      internalID: -1733651374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_229
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 2057
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17140edd346e14edf9f7b359a571f761
+      internalID: -1453624449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_230
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2055
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be782e2e10b5148dcbff23b9d71029d8
+      internalID: 682235743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_231
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 2064
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673427d79ce6494faeb2266bb70b070
+      internalID: -197662251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_232
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 2062
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a527279e56bf440893bd488606288dc
+      internalID: -1880316210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_233
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2051
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da97e6ffacd47debfff8a28e6279ca
+      internalID: 551714741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_234
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 2062
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e7e9c9272e4864b86b9fd20762319
+      internalID: -1949312236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_235
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2071
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd0bf038e3f4dea8d0da72da692516
+      internalID: -1883789806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_236
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 2048
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235c4822abbc4fb5bcc802d5d910f1d
+      internalID: 1491679614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_237
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 2053
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f3cd11e8aa423c8b922cd2f8681ef
+      internalID: -1589298847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_238
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 2069
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09c7eead8f824a0d85a044cfcbe15e3
+      internalID: -1563275847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_239
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 2060
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca541114dd1d4c0c8d585dfb9d1c607
+      internalID: 299908420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_240
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2058
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6f8402cf7d44699f74c72b4806b7d
+      internalID: -980032317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_241
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2057
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82125292c024c9cb872bf80dda2dcb
+      internalID: -1336541664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_242
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2057
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f52db9eb09b4d4baabc43f8c69fcf6
+      internalID: -1546790483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_243
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2057
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cca4602e1cd4b77ac317fb65190831
+      internalID: 1490121598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_244
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2057
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d73a9070d3d45a5aa7201eb96c4964
+      internalID: 616668672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_245
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2040
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c91bcc48ae4c91acd429dea221e89
+      internalID: -748685744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_246
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2057
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42825baa67d470fbb66690d23af20c
+      internalID: -2029943605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_247
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 2057
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d97dbcd02ac4ffd910923675027c96
+      internalID: -1784466795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_248
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2046
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff60b4820cbb4f86a61b845569708f5
+      internalID: -576064883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_249
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1997
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761820ad572d49d4bf685adc217c5cb
+      internalID: 721178491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_250
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2044
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd2c2c8662142aeaa387d788825de1
+      internalID: -776931901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_251
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2049
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c2782d34414db0893dfb885d8f045
+      internalID: 1837620169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_252
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 1993
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e6aefbcc07f4438a4cdbc51908a562
+      internalID: 128679436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_253
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2044
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9e1ff973a041bf97654ebf7b905ae
+      internalID: -649715447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_254
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 2031
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43058511c71a64dc6912c1594e745f04
+      internalID: 1790335858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_255
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2028
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc6e3a3d4cc4211af20d993409ba09
+      internalID: 206626949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_256
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 2019
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae789271ef5944d26a57d655ef2f43f7
+      internalID: 342154684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_257
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 2015
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7bc7ba49db9457f94fc5e33c28050d
+      internalID: -458781890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_258
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 2025
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef486ec0d7e3e4e18bdd10b06659d10b
+      internalID: 2075639133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_259
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 2017
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec35fd226fc447aaf2a04cda3b006f
+      internalID: 317416281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_260
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1716
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3886965477e44b2a91a7ff39499a443
+      internalID: 2023664068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_261
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1696
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3864fd6dbcc46fca325e494805e348
+      internalID: 1611407078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_262
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1669
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5e1a7967c74ca295811950c21c5b3
+      internalID: 479384003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_263
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1655
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1619eb867b404d86400d450dcab7a
+      internalID: -426546548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_264
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1647
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94c8684b43b4f9eba91a6b2cd49d4f
+      internalID: -1814553911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_265
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1635
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c3ded82d23410b8c6063570b56ec6
+      internalID: -1248042083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_266
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1575
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d0198fbc454e978122b870f05e057
+      internalID: -2021402412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_267
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1622
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c27968a51164e07829b71bbddb8508
+      internalID: 530206543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_268
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1613
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227e48066dcb4411b55f102c2cd2dca
+      internalID: 1072098667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_269
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0ebe9ef43e4bd085b1d7eeb9a1c86
+      internalID: -1768980756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_270
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1617
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc15c7e07a5d4032ad57edb2b2ace73
+      internalID: -1308073991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_271
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1570
+        width: 244
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ead4b67f1f94f50aaaf40e0d7c9751
+      internalID: -1860997305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_272
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1586
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a5486a5397466d9d77db00eb53428
+      internalID: -599655758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_273
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 4500
+        width: 201
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b6b11f5c524072837170db0214671
+      internalID: -1312429908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk Idle_274
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1673
+        width: 3774
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d17759f55ce74a0585810563581bc04
+      internalID: -399895660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walk Idle_28: 582349187
+      Walk Idle_86: 2086655819
+      Walk Idle_148: -2074033835
+      Walk Idle_109: -1450966041
+      Walk Idle_154: 1295439574
+      Walk Idle_142: 1512206146
+      Walk Idle_188: -1159364521
+      Walk Idle_14: -1171737486
+      Walk Idle_37: -645612370
+      Walk Idle_136: -588596259
+      Walk Idle_108: -262241805
+      Walk Idle_265: -1248042083
+      Walk Idle_208: 1099137506
+      Walk Idle_96: -1434409473
+      Walk Idle_206: -1902814505
+      Walk Idle_57: 1538900218
+      Walk Idle_165: -1798042276
+      Walk Idle_58: 149054471
+      Walk Idle_13: -1953847475
+      Walk Idle_30: 1728319601
+      Walk Idle_256: 342154684
+      Walk Idle_36: 182502631
+      Walk Idle_216: -191723970
+      Walk Idle_200: 1537346950
+      Walk Idle_9: 214226574
+      Walk Idle_187: 2015783392
+      Walk Idle_255: 206626949
+      Walk Idle_87: -313595334
+      Walk Idle_115: -1867265504
+      Walk Idle_62: -154928941
+      Walk Idle_205: -462485964
+      Walk Idle_20: -951635613
+      Walk Idle_203: -106385922
+      Walk Idle_237: -1589298847
+      Walk Idle_95: 421615049
+      Walk Idle_269: -1768980756
+      Walk Idle_262: 479384003
+      Walk Idle_70: -952734555
+      Walk Idle_138: -1076870033
+      Walk Idle_99: -2090365829
+      Walk Idle_236: 1491679614
+      Walk Idle_66: -1395346524
+      Walk Idle_21: -975406392
+      Walk Idle_116: 1118498128
+      Walk Idle_199: 1901168345
+      Walk Idle_229: -1453624449
+      Walk Idle_120: -1730503939
+      Walk Idle_137: 467573640
+      Walk Idle_48: -994366529
+      Walk Idle_44: 208330692
+      Walk Idle_235: -1883789806
+      Walk Idle_139: 1660454444
+      Walk Idle_133: -1582516619
+      Walk Idle_56: -2082737973
+      Walk Idle_59: 944094755
+      Walk Idle_176: 1161195681
+      Walk Idle_166: 1385798961
+      Walk Idle_242: -1546790483
+      Walk Idle_169: -573233092
+      Walk Idle_234: -1949312236
+      Walk Idle_38: -76931379
+      Walk Idle_26: 2070288442
+      Walk Idle_270: -1308073991
+      Walk Idle_54: 659506861
+      Walk Idle_107: 678931789
+      Walk Idle_152: 1666037717
+      Walk Idle_80: -1723934687
+      Walk Idle_40: 1671568160
+      Walk Idle_251: 1837620169
+      Walk Idle_113: -502476635
+      Walk Idle_179: -1972180316
+      Walk Idle_259: 317416281
+      Walk Idle_201: -1867719752
+      Walk Idle_204: 1008826997
+      Walk Idle_268: 1072098667
+      Walk Idle_149: -1081782483
+      Walk Idle_212: 750641849
+      Walk Idle_35: -345650591
+      Walk Idle_144: -1469314381
+      Walk Idle_79: -1756177251
+      Walk Idle_105: 1867390522
+      Walk Idle_168: 1633405743
+      Walk Idle_156: -524891175
+      Walk Idle_72: 259153326
+      Walk Idle_1: -1416425091
+      Walk Idle_102: -1107554365
+      Walk Idle_260: 2023664068
+      Walk Idle_76: -1659485462
+      Walk Idle_159: -781169402
+      Walk Idle_63: -625304389
+      Walk Idle_232: -1880316210
+      Walk Idle_43: 1480772320
+      Walk Idle_25: 1742253905
+      Walk Idle_131: -2137700387
+      Walk Idle_146: -1885336056
+      Walk Idle_222: 1690851465
+      Walk Idle_219: -1334641490
+      Walk Idle_127: 859468797
+      Walk Idle_135: 1512223650
+      Walk Idle_42: 478508091
+      Walk Idle_83: 2007304356
+      Walk Idle_257: -458781890
+      Walk Idle_252: 128679436
+      Walk Idle_254: 1790335858
+      Walk Idle_128: 1835185319
+      Walk Idle_11: 95994015
+      Walk Idle_193: -2021231710
+      Walk Idle_151: -656333140
+      Walk Idle_117: -873619052
+      Walk Idle_214: -761903783
+      Walk Idle_118: 891823319
+      Walk Idle_29: -261003687
+      Walk Idle_114: 1400449119
+      Walk Idle_192: -913925003
+      Walk Idle_195: -1153833625
+      Walk Idle_65: 364482006
+      Walk Idle_31: -768763293
+      Walk Idle_209: 2023228621
+      Walk Idle_24: 2141515393
+      Walk Idle_129: -1336352284
+      Walk Idle_191: -1963674021
+      Walk Idle_39: 1129826113
+      Walk Idle_223: 268071185
+      Walk Idle_104: -94588419
+      Walk Idle_125: 727697331
+      Walk Idle_186: -683223064
+      Walk Idle_69: 1282506986
+      Walk Idle_243: 1490121598
+      Walk Idle_163: -896593424
+      Walk Idle_190: -1155751378
+      Walk Idle_247: -1784466795
+      Walk Idle_33: 1091334510
+      Walk Idle_124: 326624790
+      Walk Idle_221: 1211559295
+      Walk Idle_162: 1804895065
+      Walk Idle_224: -936765910
+      Walk Idle_266: -2021402412
+      Walk Idle_49: 1486980075
+      Walk Idle_140: 1789379560
+      Walk Idle_228: -1733651374
+      Walk Idle_220: -838906030
+      Walk Idle_68: -858765249
+      Walk Idle_167: 80386177
+      Walk Idle_103: -137600467
+      Walk Idle_267: 530206543
+      Walk Idle_210: -982087356
+      Walk Idle_64: 1204324671
+      Walk Idle_250: -776931901
+      Walk Idle_261: 1611407078
+      Walk Idle_246: -2029943605
+      Walk Idle_52: -2141930500
+      Walk Idle_32: 560657241
+      Walk Idle_94: 75914372
+      Walk Idle_67: -1294832881
+      Walk Idle_5: 1798304912
+      Walk Idle_77: -147063349
+      Walk Idle_230: 682235743
+      Walk Idle_178: 824061318
+      Walk Idle_239: 299908420
+      Walk Idle_84: -28609972
+      Walk Idle_23: 858381669
+      Walk Idle_78: -2033083189
+      Walk Idle_174: -1012136736
+      Walk Idle_198: 996061026
+      Walk Idle_93: 524211541
+      Walk Idle_211: 1678783049
+      Walk Idle_273: -1312429908
+      Walk Idle_170: 1611213440
+      Walk Idle_10: 983176017
+      Walk Idle_74: -1360548505
+      Walk Idle_177: -1081961857
+      Walk Idle_90: 1071449712
+      Walk Idle_122: 400131967
+      Walk Idle_18: -80378145
+      Walk Idle_100: 439061940
+      Walk Idle_71: -1078376154
+      Walk Idle_173: -107139351
+      Walk Idle_2: -772327139
+      Walk Idle_172: -254195400
+      Walk Idle_226: 1320157473
+      Walk Idle_134: 141799019
+      Walk Idle_19: 1871424905
+      Walk Idle_245: -748685744
+      Walk Idle_207: 1129966612
+      Walk Idle_3: 1876802210
+      Walk Idle_89: 281157518
+      Walk Idle_17: 236307631
+      Walk Idle_47: -1946523975
+      Walk Idle_274: -399895660
+      Walk Idle_82: 1507540057
+      Walk Idle_238: -1563275847
+      Walk Idle_244: 616668672
+      Walk Idle_92: -1014215878
+      Walk Idle_15: 1455407532
+      Walk Idle_202: 777995840
+      Walk Idle_123: -215164922
+      Walk Idle_272: -599655758
+      Walk Idle_130: 843754279
+      Walk Idle_121: 1536364821
+      Walk Idle_160: 845473798
+      Walk Idle_155: -1833993469
+      Walk Idle_110: -1876603569
+      Walk Idle_150: 117883857
+      Walk Idle_157: -1649597237
+      Walk Idle_197: -1518261145
+      Walk Idle_81: -2118136133
+      Walk Idle_183: 311616571
+      Walk Idle_158: 769459616
+      Walk Idle_4: -449958663
+      Walk Idle_126: 75723389
+      Walk Idle_6: -296316322
+      Walk Idle_91: 467084291
+      Walk Idle_119: 121638032
+      Walk Idle_111: -2004198
+      Walk Idle_141: -326909963
+      Walk Idle_213: -1045713887
+      Walk Idle_227: -2088787832
+      Walk Idle_264: -1814553911
+      Walk Idle_45: 617644375
+      Walk Idle_97: 1734665237
+      Walk Idle_34: -1560217103
+      Walk Idle_85: 1890330813
+      Walk Idle_16: 148525508
+      Walk Idle_50: -1676695164
+      Walk Idle_55: 1485779431
+      Walk Idle_171: -2111222055
+      Walk Idle_233: 551714741
+      Walk Idle_241: -1336541664
+      Walk Idle_73: -1685422447
+      Walk Idle_27: -1194347621
+      Walk Idle_41: 1830599697
+      Walk Idle_88: 1915248854
+      Walk Idle_98: -489568833
+      Walk Idle_153: -127457614
+      Walk Idle_271: -1860997305
+      Walk Idle_240: -980032317
+      Walk Idle_0: 668874493
+      Walk Idle_180: 591139724
+      Walk Idle_215: 764471006
+      Walk Idle_253: -649715447
+      Walk Idle_147: 501378598
+      Walk Idle_8: 928388580
+      Walk Idle_53: -1431904205
+      Walk Idle_75: 1793303800
+      Walk Idle_12: -573700844
+      Walk Idle_61: -1735238596
+      Walk Idle_248: -576064883
+      Walk Idle_51: 1700713651
+      Walk Idle_132: 1610181613
+      Walk Idle_258: 2075639133
+      Walk Idle_184: 1460603614
+      Walk Idle_182: 247288628
+      Walk Idle_249: 721178491
+      Walk Idle_161: -453586537
+      Walk Idle_196: -408765264
+      Walk Idle_231: -197662251
+      Walk Idle_22: -1072117028
+      Walk Idle_145: 1794853364
+      Walk Idle_217: 1054516124
+      Walk Idle_7: 935479527
+      Walk Idle_194: -453830712
+      Walk Idle_101: 707368778
+      Walk Idle_106: 1575764586
+      Walk Idle_143: 764479405
+      Walk Idle_225: -207610813
+      Walk Idle_60: -865866079
+      Walk Idle_175: -2021250470
+      Walk Idle_181: 1149549898
+      Walk Idle_185: 124251634
+      Walk Idle_164: -237173808
+      Walk Idle_218: 948269468
+      Walk Idle_263: -426546548
+      Walk Idle_112: -1305207091
+      Walk Idle_46: 1538404971
+      Walk Idle_189: -362926894
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
