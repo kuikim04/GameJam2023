@@ -10,10 +10,10 @@ public class ControlPlayer : MonoBehaviour
     public float jumpPower = 10f;
     public float doubleJumpPower = 8f;
     private bool isFactingRight = true;
-    
+
+
 
     private bool doubleJump;
-
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -21,6 +21,10 @@ public class ControlPlayer : MonoBehaviour
     [Header("Shoot System")]
     public Transform spawnBullet;
     public GameObject bullet;
+
+    float curTime = 0;
+    float startingTime = 3;
+    bool canShoot = true;
 
     [Header("Anim")]
     public Animator playerAnim;
@@ -44,6 +48,8 @@ public class ControlPlayer : MonoBehaviour
 
     private void Start()
     {
+        curTime = startingTime;
+
         curHp = PlayerData.instance.Hp(stat.HP) ;
         Dmg = PlayerData.instance.AtkDmg(stat.ATK);
 
@@ -54,8 +60,7 @@ public class ControlPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
- 
-        if (Input.GetKeyDown(KeyCode.C)) curHp -= 1;
+     
 
         #region Status Player
 
@@ -91,9 +96,25 @@ public class ControlPlayer : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.5f);
         }
 
-        if (Input.GetButtonDown("Fire1"))
+        if (!canShoot)
         {
-            Instantiate(bullet, spawnBullet.position, spawnBullet.rotation);        
+            curTime -= 1 * Time.deltaTime;
+
+            if (curTime <= 0)
+            {
+                canShoot = true;
+                curTime = 3;
+
+            }
+        }
+
+        if (canShoot)
+        {
+            if (Input.GetButtonDown("Fire1"))
+            {
+                Instantiate(bullet, spawnBullet.position, spawnBullet.rotation);
+                canShoot = false;
+            }
         }
 
         Flip();
