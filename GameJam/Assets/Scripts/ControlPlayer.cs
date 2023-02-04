@@ -39,21 +39,22 @@ public class ControlPlayer : MonoBehaviour
     [SerializeField] private float knockbackVel = 8f;
     [SerializeField] private bool knockbacked;
     [SerializeField] private float knockbackTime = 1;
+    private SpriteRenderer _spriteRenderer;
 
 
     private void Start()
     {
         curHp = PlayerData.instance.Hp(stat.HP) ;
         Dmg = PlayerData.instance.AtkDmg(stat.ATK);
-        
+
+        _spriteRenderer = GetComponent<SpriteRenderer>();
+
+
     }
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(hp);
-        Debug.Log(Dmg);
-
-
+ 
         if (Input.GetKeyDown(KeyCode.C)) curHp -= 1;
 
         #region Status Player
@@ -131,10 +132,22 @@ public class ControlPlayer : MonoBehaviour
         var dir = _center.position - t.position;
         knockbacked = true;
         rb.velocity = (dir.normalized * knockbackVel);
+        _spriteRenderer.color = Color.red;
 
 
         StartCoroutine(CancleKnockBack());
+        StartCoroutine(FadeToWhite());
     }
+
+    IEnumerator FadeToWhite()
+    {
+        while (_spriteRenderer.color != Color.white)
+        {
+            yield return null;
+            _spriteRenderer.color = Color.Lerp(_spriteRenderer.color, Color.white, Time.deltaTime * 3);
+        }
+    }
+
 
     IEnumerator CancleKnockBack()
     {

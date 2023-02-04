@@ -8,8 +8,8 @@ public class SoundManager : MonoBehaviour
 {
     public static SoundManager Instance { get; private set; }
 
-    public Sound[] musicSound, sfxSound;
-    public AudioSource musicSourc, sfsSource;
+    public Sound[] musicSound, sfxSound, aiSound;
+    public AudioSource musicSourc, sfsSource, aiSource;
 
     public bool BGMisMute { get; set; }
     public bool SFXisMute { get; set; }
@@ -50,9 +50,40 @@ public class SoundManager : MonoBehaviour
         }
     }
 
-    public void PlaySfx(string name)
+    public void StopMusic(string name)
     {
         Sound s = Array.Find(musicSound, x => x.name == name);
+
+        if (s == null)
+        {
+            Debug.Log("Sound not Found");
+        }
+        else
+        {
+            musicSourc.clip = s.clip;
+            musicSourc.Stop();
+        }
+
+    }
+
+    public void PlayAISound(string name)
+    {
+        Sound s = Array.Find(aiSound, x => x.name == name);
+
+        if (s == null)
+        {
+            Debug.Log("Sound not Found");
+        }
+        else
+        {
+            aiSource.PlayOneShot(s.clip);
+        }
+
+    }
+
+    public void PlaySfx(string name)
+    {
+        Sound s = Array.Find(sfxSound, x => x.name == name);
 
         if (s == null)
         {

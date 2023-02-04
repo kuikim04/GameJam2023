@@ -4,11 +4,20 @@ using UnityEngine;
 
 public class TakeDmgEnemy : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        var enemy = other.collider.GetComponent<AIBehavior>();
+
+        if (enemy != null)
         {
+            enemy.KnockBacked(transform);
+            Destroy(gameObject);
             Enemy.TakeDamgeByPlayer(ControlPlayer.Dmg);
         }
+        else
+        {
+            Destroy(gameObject, 5f);
+        }
     }
+ 
 }

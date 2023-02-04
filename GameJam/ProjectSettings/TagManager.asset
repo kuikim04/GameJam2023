@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ReSpawn
   - Enemy
+  - Ladder
   layers:
   - Default
   - TransparentFX
