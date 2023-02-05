@@ -8,6 +8,7 @@ public class UIControl : MonoBehaviour
 {
     public Slider _musicSlider, _sfxSlider;
     public Image bgmBtn, bgmOn, bgmOff, sfxBtn, sfxOn, sfxOff;
+    public GameObject uiSetting;
     private void Update()
     {
         Debug.Log(SoundManager.Instance.BGMisMute);
@@ -32,5 +33,19 @@ public class UIControl : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene(1);
+    }
+    public void Setting()
+    {
+        uiSetting.SetActive(true);
+    }
+
+    public void CloseSetting()
+    {
+        uiSetting.SetActive(false);
+    }
+    public void ExitGame()
+    {
+        Application.Quit();
+
     }
 }
