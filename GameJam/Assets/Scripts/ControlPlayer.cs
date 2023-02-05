@@ -87,6 +87,7 @@ public class ControlPlayer : MonoBehaviour
                     ? doubleJumpPower : jumpPower);
 
                 doubleJump = !doubleJump;
+                SoundManager.Instance.PlaySfx("Jump");
             }
             //rb.velocity = new Vector2(rb.velocity.x, jumpPower);
         }
